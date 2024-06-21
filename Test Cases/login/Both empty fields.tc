@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Both empty fields</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c962bb0d-eb3e-4c8c-bb86-8bf8b5224ff5</testCaseGuid>
+</TestCaseEntity>
