@@ -29,7 +29,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/login/Page_Login/input_
 
 WebUI.click(findTestObject('Object Repository/login/Page_Login/i_Password_fa fa-eye pwd_icon'))
 
+WebUI.takeScreenshotAsCheckpoint('Login page')
+
 WebUI.click(findTestObject('Object Repository/login/Page_Login/button_Sign in'))
+
+WebUI.takeScreenshotAsCheckpoint('Dashboard screen')
 
 WebUI.delay(10)
 
