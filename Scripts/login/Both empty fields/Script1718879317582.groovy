@@ -29,5 +29,7 @@ WebUI.verifyElementText(findTestObject('Object Repository/login/Page_Login/span_
 
 WebUI.verifyElementText(findTestObject('Object Repository/login/Page_Login/span_Password is required'), 'Password is required')
 
+WebUI.takeScreenshotAsCheckpoint('validation when both fields empty')
+
 WebUI.takeFullPageScreenshot()
 
