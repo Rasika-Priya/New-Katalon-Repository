@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>Checkpoint</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/ddt login/login checkpoint</source-url>
+   </source-info>
+   <taken-date>2024-06-25T16:15:54.556+05:30</taken-date>
+   <column-names>
+      <column-name>Email</column-name>
+      <column-name>Password</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "zara@yopmail.com",
+      "checked": true
+    },
+    {
+      "value": "MHSUC33hkPmEvh0ovFgCGQ\u003d\u003d",
+      "checked": true
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

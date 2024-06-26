@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Zara Agency</name>
+   <tag></tag>
+   <elementGuidId>616bf885-53bd-4566-b484-973cb961ab25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ng-binding</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='bs-navbar']/ul[2]/li[2]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Zara Agency &quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1bf1a881-73e5-4825-b282-2752bfd77ba7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ng-binding</value>
+      <webElementGuid>932b9256-fa87-4166-bb14-9e19c948a761</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Zara Agency</value>
+      <webElementGuid>c48ab0c0-5b38-4b8c-a8bd-df5eaabf65c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top&quot;)/div[@class=&quot;sample ng-scope&quot;]/section[@class=&quot;bs-docs-nav navbar navbar-static-top nomargin manage_partner bb- ng-scope&quot;]/div[@class=&quot;container-fluid&quot;]/div[1]/nav[@id=&quot;bs-navbar&quot;]/ul[@class=&quot;nav navbar-nav navbar-right right_nav drop-right-btn&quot;]/li[@class=&quot;head_user&quot;]/a[@class=&quot;dropdown-toggle nopadding profile&quot;]/div[@class=&quot;name_user&quot;]/span[@class=&quot;ng-binding&quot;]</value>
+      <webElementGuid>bae6f599-8a56-4979-989a-a951c6b2eac4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='bs-navbar']/ul[2]/li[2]/a/div/span</value>
+      <webElementGuid>14c894e6-cf6c-4bf1-b9bd-5bb27d17b3a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Care Desk'])[1]/following::span[1]</value>
+      <webElementGuid>f655d625-55dc-45b2-89d0-32b51c87919b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Branches'])[1]/following::span[1]</value>
+      <webElementGuid>85971cd8-67d4-4947-99d5-4568c922d376</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Participants'])[1]/preceding::span[1]</value>
+      <webElementGuid>d33d1dd1-30cf-49cd-9bb0-53472f1cbeb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employers'])[1]/preceding::span[1]</value>
+      <webElementGuid>d1a71f92-1e7e-4ad4-8e75-9ea61d95a262</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Zara Agency']/parent::*</value>
+      <webElementGuid>09df3d1e-da9d-4c4f-8321-b6b9a362bda2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/span</value>
+      <webElementGuid>33409198-ec30-4432-997f-0b82b247cb5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Zara Agency' or . = 'Zara Agency')]</value>
+      <webElementGuid>3400062d-c024-47f5-a1ae-b4031159f30c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
