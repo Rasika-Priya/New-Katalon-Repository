@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Can I book a train ticket under the Tatka_fa80df</name>
+   <tag></tag>
+   <elementGuidId>066b4bc0-64ce-4fa6-a69a-8169ca4e2705</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.question</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reactContentMount']/div[3]/div/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Can I book a train ticket under the Tatkal quota through redRail?&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>cfc44df0-acef-409c-8126-2516fbedcb97</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>question</value>
+      <webElementGuid>7a4f870a-af9b-4274-9ffc-99074ff83f9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Can I book a train ticket under the Tatkal quota through redRail?</value>
+      <webElementGuid>e1d75dc8-8a47-4ba8-9ee7-da2ef398c69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reactContentMount&quot;)/div[@class=&quot;faqContainer&quot;]/div[@class=&quot;questionListContainer&quot;]/div[@class=&quot;questionBackground&quot;]/p[@class=&quot;question&quot;]</value>
+      <webElementGuid>409ef084-d55a-46dc-ab79-91ef25db5bc5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Redbus/Page_redCare/iframe</value>
+      <webElementGuid>5601f9f0-fe90-4d5f-81ed-87463d31fef9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reactContentMount']/div[3]/div/div[2]/p</value>
+      <webElementGuid>dc3d76f4-257f-48d7-a875-1645dad5c737</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQs'])[2]/following::p[1]</value>
+      <webElementGuid>adcf8bc6-021f-4a55-a341-c2d3dc151d61</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FAQs'])[1]/following::p[1]</value>
+      <webElementGuid>82074da4-599d-480d-9b0a-7a3dcfd77ad2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Can I book a train ticket under the Tatkal quota through redRail?']/parent::*</value>
+      <webElementGuid>be43100b-affe-4478-8fe3-1213178e0705</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>fc6404e6-aae4-4ce9-9cd3-71b45330a463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Can I book a train ticket under the Tatkal quota through redRail?' or . = 'Can I book a train ticket under the Tatkal quota through redRail?')]</value>
+      <webElementGuid>7c3afd2e-a143-4a74-a4ac-f78427aba908</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

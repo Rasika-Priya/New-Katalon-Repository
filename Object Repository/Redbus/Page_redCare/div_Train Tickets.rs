@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Train Tickets</name>
+   <tag></tag>
+   <elementGuidId>4f2d185e-b37f-4679-9e61-e628aeea32ee</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='main-warapper-transition']/div/div[2]/div/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Train Tickets&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>450693ff-c05a-4d19-9b73-bc55660f41e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Train Tickets</value>
+      <webElementGuid>a8a100a0-c483-41a5-adf5-c7c75f9abccb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;main-warapper-transition&quot;)/div[@class=&quot;faqContainer&quot;]/div[@class=&quot;faqCard&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;innerObjects&quot;]/div[@class=&quot;subrow2&quot;]/div[1]</value>
+      <webElementGuid>eb271140-930e-4790-ae01-0e84bc58ded4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Redbus/Page_redCare/iframe</value>
+      <webElementGuid>da9ec7a0-1a85-40e2-a803-ec5bd3d21973</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='main-warapper-transition']/div/div[2]/div/div[2]/div[2]/div</value>
+      <webElementGuid>c6c8bf14-73e4-4b3f-95e8-67facc6da703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus Tickets'])[1]/following::div[4]</value>
+      <webElementGuid>91329502-c2dc-4a40-8e9d-fa35bdacf255</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Select a Help Topic)'])[1]/following::div[10]</value>
+      <webElementGuid>6e6bc27f-cf77-4041-ad8d-6912a3f567e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Other topics'])[1]/preceding::div[1]</value>
+      <webElementGuid>41587263-7185-432a-986c-54d39ad7e983</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Technical Issues'])[1]/preceding::div[3]</value>
+      <webElementGuid>3278558c-d447-4f5f-910d-272bb7a9ec12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Train Tickets']/parent::*</value>
+      <webElementGuid>a3f05cba-5c78-42c0-98c9-5d66bc058a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div[2]/div/div[2]/div[2]/div</value>
+      <webElementGuid>d519d217-ee0d-46ff-870a-c39f89b3d1f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Train Tickets' or . = 'Train Tickets')]</value>
+      <webElementGuid>80b2f0d4-d188-4f50-a86c-dadf2edba57d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

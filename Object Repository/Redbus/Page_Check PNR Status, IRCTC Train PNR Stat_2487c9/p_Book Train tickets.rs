@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Book Train tickets</name>
+   <tag></tag>
+   <elementGuidId>97fbeeae-e54a-478d-aca0-e145e1803d80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/section/div[2]/div[3]/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Book Train tickets&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>12507e2f-4839-4c83-a290-9fdc1baf07bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Book Train tickets</value>
+      <webElementGuid>c5fcfd1e-4099-4bae-8b3e-6eeed6a3ced7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;pnrstatus_dweb_main_wrap&quot;]/section[@class=&quot;banner-wrapper&quot;]/div[@class=&quot;banner&quot;]/div[@class=&quot;ris-wrapper&quot;]/div[@class=&quot;ris-selector&quot;]/p[1]</value>
+      <webElementGuid>6be49c30-cead-4c82-8bfe-e17dc45e61ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/section/div[2]/div[3]/div/p</value>
+      <webElementGuid>9cf49326-0c25-43c0-8335-8c2e2408d039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Authorised by'])[1]/following::p[1]</value>
+      <webElementGuid>0e92715a-95d5-4393-9368-dd90511428e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Check Status'])[1]/preceding::p[3]</value>
+      <webElementGuid>df9ede1c-cc2c-44b3-aa9c-9fc2b13c7410</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Top 10 Trains with Highest Waitlist PNR'])[1]/preceding::p[3]</value>
+      <webElementGuid>24c2d758-16d5-4c8e-9aa6-515b0fd53dcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Book Train tickets']/parent::*</value>
+      <webElementGuid>95547e00-2840-4bdf-94fb-1a27ff6299b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>8e99717d-b808-4ecb-8cd8-0dae57865d04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Book Train tickets' or . = 'Book Train tickets')]</value>
+      <webElementGuid>fe0c215c-9a30-4d0f-ad62-8267ec6a9dd8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Tatkal FAQs</name>
+   <tag></tag>
+   <elementGuidId>5f330beb-5ba1-423f-a734-aba428e23161</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='reactContentMount']/div[3]/div/div[2]/div[2]/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Tatkal FAQs&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>27b184e7-ad6d-49ab-906d-dc0628b8deb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>parentText</value>
+      <webElementGuid>5fdd93be-1c38-4d9d-ae6b-298bbbac5835</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tatkal FAQs</value>
+      <webElementGuid>ce3494df-d918-44d0-a912-37b29c3f3be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;reactContentMount&quot;)/div[@class=&quot;faqContainer&quot;]/div[@class=&quot;issue-list-block&quot;]/div[@class=&quot;list-row-white&quot;]/div[@class=&quot;listitems&quot;]/div[@class=&quot;w76&quot;]/span[@class=&quot;parentText&quot;]</value>
+      <webElementGuid>1b507fea-85c8-4171-ae6e-b8c00120449a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Redbus/Page_redCare/iframe</value>
+      <webElementGuid>b743e0f5-c724-40a3-ae32-4d622865732f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='reactContentMount']/div[3]/div/div[2]/div[2]/div[2]/span</value>
+      <webElementGuid>f2b22296-b3ea-4d39-bd9a-7c93576b3989</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Booking FAQs'])[1]/following::span[2]</value>
+      <webElementGuid>f5b3c1d0-48c5-416e-b370-9c0b6ffd7cca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help topics'])[1]/following::span[3]</value>
+      <webElementGuid>44af4276-fd7e-46b6-848b-571ce7dca765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Journey FAQs'])[1]/preceding::span[2]</value>
+      <webElementGuid>c0ea33f9-c638-43d2-945d-d6d62b84a9f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancellation FAQs'])[1]/preceding::span[4]</value>
+      <webElementGuid>6cc32fa6-f18a-46f0-b998-4711128f522d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Tatkal FAQs']/parent::*</value>
+      <webElementGuid>00549fe3-97bc-4028-8dc4-cbedd56cd0c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/span</value>
+      <webElementGuid>7f2be14e-9eae-46c1-b0e8-10349a8a3684</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Tatkal FAQs' or . = 'Tatkal FAQs')]</value>
+      <webElementGuid>45c68996-77ee-4cb6-9650-f599e13c8ac3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
