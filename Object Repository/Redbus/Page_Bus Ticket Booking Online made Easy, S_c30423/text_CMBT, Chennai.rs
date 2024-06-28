@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_CMBT, Chennai</name>
+   <tag></tag>
+   <elementGuidId>235b3f44-1e1f-4a9c-a789-b73fb8b0e1cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoSuggestContainer']/div/div/div/div/ul/li[2]/div/text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; From  Chennai  CMBT, Chennai Chennai  CMBT, Chennai Chennai  Koyambedu Chennai  Perungalathur Chennai  Vellore Bypass Chennai  Vandalur Chennai  Ashok Pillar Chennai  Alandur Chennai  Chrompet Chennai  Guindy Chennai  Sholinganallur Chennai  Porur Chennai  Pallavaram Chennai  Madhavaram Chennai  Mahabalipuram Chennai  Maduravoyal Chennai  Egmore Chennai  Velachery Chennai  Chennai Intl Airport&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>660921b1-daf5-4cf6-858c-c6dc6c99a159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeHolderMainText</value>
+      <webElementGuid>dc9be7ca-58a4-48da-8e8d-89eafc5ea42b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CMBT, Chennai</value>
+      <webElementGuid>dcd245bc-f29e-4a51-9ae1-403cd83dd829</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoSuggestContainer&quot;)/div[@class=&quot;sc-ckVGcZ ikHMPa&quot;]/div[1]/div[@class=&quot;sc-gqjmRU giWxzf&quot;]/div[@class=&quot;sc-VigVT ishpWr&quot;]/ul[@class=&quot;sc-dnqmqq eFEVtU&quot;]/li[@class=&quot;sc-iwsKbI jTMXri&quot;]/div[@class=&quot;sc-gZMcBi grvhsy&quot;]/text[@class=&quot;placeHolderMainText&quot;]</value>
+      <webElementGuid>3760baf3-8585-4e28-9b4d-205ecbeb5232</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoSuggestContainer']/div/div/div/div/ul/li[2]/div/text</value>
+      <webElementGuid>0f2ad780-6168-4eff-b905-19eae0a62185</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chennai'])[1]/following::text[1]</value>
+      <webElementGuid>1c04b2fb-4193-4899-a278-1ae0ce284f39</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/following::text[2]</value>
+      <webElementGuid>509e1b56-f1bc-4f26-a946-17792f4360f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chennai'])[2]/preceding::text[1]</value>
+      <webElementGuid>56159329-ff6f-4a4e-ba6e-1a8b9afaaf17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CMBT, Chennai'])[2]/preceding::text[2]</value>
+      <webElementGuid>a2eab441-6736-4c94-963f-0a98f35c38e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CMBT, Chennai']/parent::*</value>
+      <webElementGuid>f081495b-dd4d-405c-8fc5-663302bf154b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/text</value>
+      <webElementGuid>b1a99e12-6f0b-4329-9b0a-30231ca9887d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'CMBT, Chennai' or . = 'CMBT, Chennai')]</value>
+      <webElementGuid>c45afe2c-1dd0-466e-8e31-556ad5585b63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

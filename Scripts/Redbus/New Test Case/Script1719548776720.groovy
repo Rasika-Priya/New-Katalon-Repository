@@ -19,29 +19,29 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://jiffyagencyqa.azurewebsites.net/#/Login')
+WebUI.navigateToUrl('https://www.redbus.in/')
 
-WebUI.maximizeWindow()
+WebUI.takeScreenshotAsCheckpoint('Initial page')
 
-WebUI.setText(findTestObject('Object Repository/login/Page_Login/input_Username_email'), 'Zara@yopmail.com')
+WebUI.setText(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/input_concat(India, , s No. 1 Online Bus Ti_2144e2'), 
+    'chennai')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/login/Page_Login/input_Password_password'), 'MHSUC33hkPmEvh0ovFgCGQ==')
+WebUI.click(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/text_CMBT, Chennai'))
 
-WebUI.click(findTestObject('Object Repository/login/Page_Login/i_Password_fa fa-eye pwd_icon'))
+WebUI.setText(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/input_Chennai_dest'), 
+    'madurai')
 
-WebUI.takeScreenshotAsCheckpoint('Login page')
+WebUI.click(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/text_Mattuthavani'))
 
-WebUI.click(findTestObject('Object Repository/login/Page_Login/button_Sign in'))
+WebUI.click(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/div_Icons_SVG__redone'))
 
-WebUI.takeScreenshotAsCheckpoint('Dashboard screen')
+WebUI.click(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/div_Icons_SVG__redone'))
 
-WebUI.delay(10)
+WebUI.click(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/span_15'))
 
-WebUI.waitForElementPresent(findTestObject('Object Repository/login/Page_Dashboard/span_Zara Agency'), 0)
+WebUI.takeScreenshotAsCheckpoint('Data validation')
 
-WebUI.verifyElementText(findTestObject('Object Repository/login/Page_Dashboard/span_Zara Agency'), 'Zara Agency')
-
-WebUI.takeScreenshot()
+WebUI.click(findTestObject('Object Repository/Redbus/Page_Bus Ticket Booking Online made Easy, S_c30423/button_SEARCH BUSES'))
 
 WebUI.closeBrowser()
 

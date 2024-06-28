@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_15</name>
+   <tag></tag>
+   <elementGuidId>c59ed16f-208e-49aa-a6a1-0d4b4bd7952f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onwardCal']/div/div[2]/div/div/div[3]/div[4]/span/div[4]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Date Icons_SVG__redone Aug 2024 3 Holidays Icons_SVG__redone MON TUE WED THU FRI SAT SUN 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 1&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d369a4f8-36b1-4d35-9fa8-7220d245e1ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DayTiles__CalendarDaysSpan-sc-1xum02u-1 dkWAbH</value>
+      <webElementGuid>3a963f1b-1439-4cc0-aef0-0ec5bd9e03b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>15</value>
+      <webElementGuid>c1277c25-3e91-48d1-94a3-8ea8786ea0a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onwardCal&quot;)/div[@class=&quot;labelCalendarContainer&quot;]/div[@class=&quot;sc-jzJRlG dPBSOp&quot;]/div[@class=&quot;DatePicker__CalendarContainer-sc-1kf43k8-0 jQCNYF&quot;]/div[@class=&quot;DatePicker__MainBlock-sc-1kf43k8-1 hHKFiR&quot;]/div[3]/div[@class=&quot;DayTilesWrapper__RowWrap-sc-19pz9i8-1 fGGTDM&quot;]/span[@class=&quot;DayTilesWrapper__SpanContainer-sc-19pz9i8-0 hQhlTG&quot;]/div[@class=&quot;DayTiles__CalendarDaysBlock-sc-1xum02u-0 isgDNj&quot;]/span[@class=&quot;DayTiles__CalendarDaysSpan-sc-1xum02u-1 dkWAbH&quot;]</value>
+      <webElementGuid>628e20ba-f83f-4025-836f-a7abedfc3ae6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onwardCal']/div/div[2]/div/div/div[3]/div[4]/span/div[4]/span</value>
+      <webElementGuid>fc866219-e718-400c-a4e1-56797f7112b4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SUN'])[1]/following::span[19]</value>
+      <webElementGuid>03cf01a6-497d-4375-8aeb-4b01f2fde318</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SAT'])[1]/following::span[19]</value>
+      <webElementGuid>dda7794a-cb86-430f-a659-08f8a15c9093</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SEARCH BUSES'])[1]/preceding::span[20]</value>
+      <webElementGuid>a9c57f6e-2021-4d04-8082-fa9a908e67f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TRENDING OFFERS'])[1]/preceding::span[20]</value>
+      <webElementGuid>64fa4986-e485-4333-bfc7-2a5097827187</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='15']/parent::*</value>
+      <webElementGuid>34f0472e-8553-4c38-99e3-305595ebb95b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/span/div[4]/span</value>
+      <webElementGuid>99e6f0a8-b6b2-4ffe-827f-872bf1175cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '15' or . = '15')]</value>
+      <webElementGuid>13fae9fc-91b6-4409-9add-574267424f02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Icons_SVG__redone</name>
+   <tag></tag>
+   <elementGuidId>a2ac8bb9-fe7c-40be-9a1c-0efc3601ed5e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='onwardCal']/div/div[2]/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; Date Jun 2024 Icons_SVG__redone MON TUE WED THU FRI SAT SUN 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 1 2 3 4 5 6 7&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d9e8fd54-3b25-4d1a-9bad-283cdabbe257</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>DayNavigator__IconBlock-qj8jdz-2 iZpveD</value>
+      <webElementGuid>f7749e59-7ef6-4dbb-a753-180e2e548ac8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Icons_SVG__redone</value>
+      <webElementGuid>fa97e52b-5646-4f4d-b662-f3dcd22ac04a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;onwardCal&quot;)/div[@class=&quot;labelCalendarContainer&quot;]/div[@class=&quot;sc-jzJRlG dPBSOp&quot;]/div[@class=&quot;DatePicker__CalendarContainer-sc-1kf43k8-0 jQCNYF&quot;]/div[@class=&quot;DatePicker__MainBlock-sc-1kf43k8-1 hHKFiR&quot;]/div[@class=&quot;DayNavigator__CalendarHeader-qj8jdz-1 fxvMrr&quot;]/div[@class=&quot;DayNavigator__IconBlock-qj8jdz-2 iZpveD&quot;]</value>
+      <webElementGuid>31542382-a990-4c63-8de4-54c42178c497</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='onwardCal']/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>50d07f24-45bc-4316-87cc-42b6cf5d6161</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jun 2024'])[1]/following::div[1]</value>
+      <webElementGuid>45191e0e-47db-42c3-bdba-a025a255942e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Date'])[1]/following::div[7]</value>
+      <webElementGuid>5da2d0b2-2c58-4a05-81c7-bb26cf4f52a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MON'])[1]/preceding::div[1]</value>
+      <webElementGuid>0562fec1-9b44-4cf6-bf38-4288b3cabe44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='TUE'])[1]/preceding::div[2]</value>
+      <webElementGuid>98446d43-08c7-43b1-afa2-5e06390ade07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div[2]/div/div/div/div[3]</value>
+      <webElementGuid>ef257013-6696-455b-84bb-be36aa19a552</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Icons_SVG__redone' or . = 'Icons_SVG__redone')]</value>
+      <webElementGuid>e75d0a65-d96a-418b-9116-09fb70cfbded</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
