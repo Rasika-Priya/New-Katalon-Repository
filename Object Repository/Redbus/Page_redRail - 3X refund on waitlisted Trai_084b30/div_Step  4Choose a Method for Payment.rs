@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Step  4Choose a Method for Payment</name>
+   <tag></tag>
+   <elementGuidId>3aff21d5-8aa2-4162-8e8e-0f3108e0f3cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section[4]/div/div/div/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Step : 4 Choose a Method for Payment&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f8b9f1f9-0fe8-4ff4-830c-f6a2a937d3e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> tutorial-step</value>
+      <webElementGuid>94c46659-c537-46c6-aefd-e19154608309</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Step : 4 Choose a Method for Payment</value>
+      <webElementGuid>cc915dfe-584d-4fa8-9d1a-cae1af65255e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;tutorial-wrapper&quot;]/div[@class=&quot;tutorial-center&quot;]/div[@class=&quot;tutorial-content&quot;]/div[@class=&quot;steps-list&quot;]/div[@class=&quot;tutorial-step&quot;]</value>
+      <webElementGuid>b6a5b80a-e35a-4aab-a0ab-ed53a1554568</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section[4]/div/div/div/div[4]</value>
+      <webElementGuid>f36b420d-42a4-4ac5-97b9-344d871e0ec5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[4]</value>
+      <webElementGuid>846e5f6e-b66e-4e91-88fe-248dc29e8c46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Step : 4 Choose a Method for Payment' or . = 'Step : 4 Choose a Method for Payment')]</value>
+      <webElementGuid>e8328679-9e0a-4787-90a9-9fe28bcfb31e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

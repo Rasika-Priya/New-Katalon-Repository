@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Bangalore to Tirupati</name>
+   <tag></tag>
+   <elementGuidId>0b11a256-8f62-4aca-9ee7-10256420c12d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.route</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[4]/div[2]/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Bangalore to Tirupati&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>37c9b72e-884c-4328-8a44-ae2cf545cb36</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/bus-tickets/bangalore-to-tirupathi</value>
+      <webElementGuid>ef67f198-5741-43aa-893a-e3c701948654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>route</value>
+      <webElementGuid>a88152c3-39be-4501-a752-a975dad713c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Bangalore to Tirupati</value>
+      <webElementGuid>e83f6ce8-0587-4541-8ab5-56327e577baa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Bangalore to Tirupati</value>
+      <webElementGuid>62a4baa6-12d3-4922-86e4-cc679e197e30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;D117_main D117_container&quot;]/div[@class=&quot;route_link&quot;]/div[@class=&quot;route_details&quot;]/a[@class=&quot;route&quot;]</value>
+      <webElementGuid>d5d9f9a6-842b-41ae-9c0f-916d755f54a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[4]/div[2]/div/a</value>
+      <webElementGuid>fcc7811b-de8c-4c1f-afbc-bccb4d73e640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Bangalore to Tirupati')]</value>
+      <webElementGuid>211bb1fc-0e99-4ba0-b86f-a31140635da7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APSRTC Bus Routes &amp; Timings'])[1]/following::a[1]</value>
+      <webElementGuid>440f086c-46ac-4d3e-95de-ed68b2de4c67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::a[1]</value>
+      <webElementGuid>003bbf2d-9cac-4e44-afd1-bdc9cb5a5cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Bangalore to Tirupati']/parent::*</value>
+      <webElementGuid>a0ff77ed-b9bc-488c-bc85-e6e3be434c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/bus-tickets/bangalore-to-tirupathi')]</value>
+      <webElementGuid>008772e9-2a65-41e2-8a7a-414ed26d3208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a</value>
+      <webElementGuid>9ffe4ec5-807a-48b1-b1da-d75aab03253a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/bus-tickets/bangalore-to-tirupathi' and @title = 'Bangalore to Tirupati' and (text() = 'Bangalore to Tirupati' or . = 'Bangalore to Tirupati')]</value>
+      <webElementGuid>4837fbc3-62f7-4ba9-be4e-21a324a26608</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

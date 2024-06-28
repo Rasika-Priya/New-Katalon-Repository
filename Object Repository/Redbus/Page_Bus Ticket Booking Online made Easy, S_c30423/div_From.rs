@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_From</name>
+   <tag></tag>
+   <elementGuidId>7f261cf3-3678-4e46-b493-bfb00317e4e5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-ifAKCX.gLwVlD</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoSuggestContainer']/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; From&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b2a09ab-3f42-40c1-a9a7-54d9646ef23c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-ifAKCX gLwVlD</value>
+      <webElementGuid>6db70f1e-0240-4f0b-9452-8f5ae1ca239f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>From</value>
+      <webElementGuid>211be71f-5962-4dee-a6a8-3ac6693ff701</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoSuggestContainer&quot;)/div[@class=&quot;sc-ckVGcZ ikHMPa&quot;]/div[1]/div[@class=&quot;sc-gqjmRU giWxzf&quot;]/div[@class=&quot;sc-VigVT ishpWr&quot;]/div[@class=&quot;sc-bdVaJa bpEJck&quot;]/div[@class=&quot;sc-ifAKCX gLwVlD&quot;]</value>
+      <webElementGuid>037ebef4-4374-4df1-a968-85acf1c8286f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoSuggestContainer']/div/div/div/div/div/div</value>
+      <webElementGuid>11532fe1-7328-467c-8173-c1a2ac7d480f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login/ Sign Up'])[1]/following::div[13]</value>
+      <webElementGuid>c3e3dacd-574d-4efc-9e85-1bfa70a1885b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='To'])[1]/preceding::div[4]</value>
+      <webElementGuid>3584d3d0-ba22-48a7-ba6f-3afdfcf89b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[2]/div/div/div/div/div/div</value>
+      <webElementGuid>a5604bd4-4208-492c-b3ec-b56190815319</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'From' or . = 'From')]</value>
+      <webElementGuid>b15fb572-fd15-4fc1-bbf7-e7248eb948f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

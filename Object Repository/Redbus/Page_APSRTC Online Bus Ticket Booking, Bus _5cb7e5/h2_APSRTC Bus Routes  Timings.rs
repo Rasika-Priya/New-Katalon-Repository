@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_Train Tickets</name>
+   <name>h2_APSRTC Bus Routes  Timings</name>
    <tag></tag>
-   <elementGuidId>21007e1c-d04c-4fb6-8a05-4742e1d2ef3f</elementGuidId>
+   <elementGuidId>50aa7d19-a7ff-4f45-a60c-a2bb8cdc4e12</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#rail_tickets_vertical > span.name_rb_vertical</value>
+         <value>#toc_id_3</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//li[@id='rail_tickets_vertical']/span</value>
+         <value>//h2[@id='toc_id_3']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>#rail_tickets_vertical >> internal:text=&quot;Train Tickets&quot;i</value>
+         <value>internal:role=heading[name=&quot;APSRTC Bus Routes &amp; Timings&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,95 +28,103 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>span</value>
-      <webElementGuid>3e5e8328-82c5-4c99-848e-2c956831aa07</webElementGuid>
+      <value>h2</value>
+      <webElementGuid>aa951725-bfd4-433d-bdc5-8ce1cd31a994</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>name_rb_vertical</value>
-      <webElementGuid>9ead5887-c161-4ef4-a4c8-205038395852</webElementGuid>
+      <value>D117_table_h2</value>
+      <webElementGuid>0a424726-6c3c-4c34-b890-3644a3e922b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>toc_id_3</value>
+      <webElementGuid>392ad4d4-09aa-41c4-9a57-0ba623da6e3b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Train Tickets</value>
-      <webElementGuid>cc375116-360e-4f33-9d2e-738dd6063708</webElementGuid>
+      <value> APSRTC Bus Routes &amp; Timings </value>
+      <webElementGuid>39235ad5-40aa-4445-8baf-2af0c81b3c83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;rail_tickets_vertical&quot;)/span[@class=&quot;name_rb_vertical&quot;]</value>
-      <webElementGuid>7764135c-5790-46d4-b293-cbfeb2260d49</webElementGuid>
+      <value>id(&quot;toc_id_3&quot;)</value>
+      <webElementGuid>e2717705-8ab1-46b8-80ae-16b81705bc9f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h2[@id='toc_id_3']</value>
+      <webElementGuid>35b1941c-c847-4113-9d5b-1480bdbe0442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//li[@id='rail_tickets_vertical']/span</value>
-      <webElementGuid>79c0e325-93a1-47fd-8ba2-a31ff3d591ca</webElementGuid>
+      <value>//div[@id='root']/div/div[4]/div/h2</value>
+      <webElementGuid>f73b8ac9-a2df-49b0-aeee-4fa31df51e5b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='₹80 off'])[1]/following::span[1]</value>
-      <webElementGuid>7e83a61d-d01d-45d0-96fc-ef65f19c7a80</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sun'])[3]/following::h2[1]</value>
+      <webElementGuid>71292324-097a-426b-ba5b-56b4eafed6b9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bus Tickets'])[1]/following::span[2]</value>
-      <webElementGuid>674edb05-f179-495d-9cad-80c959188b8b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vijayawada to Hyderabad'])[1]/preceding::h2[1]</value>
+      <webElementGuid>87ffd23b-239a-4073-aabc-2d69380908cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Help'])[1]/preceding::span[1]</value>
-      <webElementGuid>dcb26a20-2c03-4282-91b9-b0490f93a0ea</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='From'])[1]/preceding::h2[1]</value>
+      <webElementGuid>cfaaec20-74cf-4798-860b-305b522ba32b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account'])[1]/preceding::span[2]</value>
-      <webElementGuid>32e94c37-1163-4816-9e09-176fb2dfd4ed</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Train Tickets']/parent::*</value>
-      <webElementGuid>aabf1b33-811a-427e-9d84-ed3cfbd2ce89</webElementGuid>
+      <value>//*/text()[normalize-space(.)='APSRTC Bus Routes &amp; Timings']/parent::*</value>
+      <webElementGuid>deb4e2a7-97c9-47ec-a3f1-a8940ac3d6e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[2]/span</value>
-      <webElementGuid>5c7a334a-638c-48ba-a1f4-a293be576426</webElementGuid>
+      <value>//div[4]/div/h2</value>
+      <webElementGuid>ce252df5-ea7a-4119-ae95-55962ecaeed4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[(text() = 'Train Tickets' or . = 'Train Tickets')]</value>
-      <webElementGuid>87f6e7dc-3a7c-4928-b441-92b398ab7db4</webElementGuid>
+      <value>//h2[@id = 'toc_id_3' and (text() = ' APSRTC Bus Routes &amp; Timings ' or . = ' APSRTC Bus Routes &amp; Timings ')]</value>
+      <webElementGuid>85fbce9f-297f-4781-928c-2665a4a029e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

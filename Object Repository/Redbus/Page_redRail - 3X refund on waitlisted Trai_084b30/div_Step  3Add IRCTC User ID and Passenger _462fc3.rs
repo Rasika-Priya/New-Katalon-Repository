@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Step  3Add IRCTC User ID and Passenger _462fc3</name>
+   <tag></tag>
+   <elementGuidId>c1b02fac-2943-4748-9e40-5bfea4d7a90a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section[4]/div/div/div/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Step : 3 Add IRCTC User ID and Passenger Information&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37aa573a-6a0c-4d7a-909b-849eccf98661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> tutorial-step</value>
+      <webElementGuid>b54db308-4c2e-47d7-ae36-5480784d0403</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Step : 3 Add IRCTC User ID and Passenger Information</value>
+      <webElementGuid>068bedcb-79ec-489e-8025-0302cd6bbcf5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;tutorial-wrapper&quot;]/div[@class=&quot;tutorial-center&quot;]/div[@class=&quot;tutorial-content&quot;]/div[@class=&quot;steps-list&quot;]/div[@class=&quot;tutorial-step&quot;]</value>
+      <webElementGuid>bf31b0be-2368-4a17-9a37-b3df527ee3a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section[4]/div/div/div/div[3]</value>
+      <webElementGuid>eff21f7d-9128-412b-b45f-76524f263576</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div/div/div[3]</value>
+      <webElementGuid>664afd8d-b8a1-4549-b9d6-2dcc76134503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Step : 3 Add IRCTC User ID and Passenger Information' or . = 'Step : 3 Add IRCTC User ID and Passenger Information')]</value>
+      <webElementGuid>9cb3df47-c877-43df-87a2-1237639f21da</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

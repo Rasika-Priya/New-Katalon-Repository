@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Chennai_dest</name>
+   <name>a_Home</name>
    <tag></tag>
-   <elementGuidId>74a107b7-ea67-46f3-ab83-fb85359f031b</elementGuidId>
+   <elementGuidId>aa3913f5-9aa3-43e2-b22e-a31ff6644964</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#dest</value>
+         <value>li > a</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='dest']</value>
+         <value>//div[@id='root']/div/div[2]/div/ul/li/a</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;To&quot;i</value>
+         <value>internal:role=link[name=&quot;Home&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -28,87 +28,79 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>input</value>
-      <webElementGuid>6fcafcf3-8ab5-4fb9-b800-816991887f4e</webElementGuid>
+      <value>a</value>
+      <webElementGuid>6530d8c2-0cb5-4a61-ae76-6908a08090ad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
+      <name>itemprop</name>
       <type>Main</type>
-      <value>-1</value>
-      <webElementGuid>b97fbbb3-6fe6-449b-992a-385cd8ed1b3d</webElementGuid>
+      <value>item</value>
+      <webElementGuid>44e05079-17a1-4d71-8afb-64ab6c57d313</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>id</name>
+      <name>href</name>
       <type>Main</type>
-      <value>dest</value>
-      <webElementGuid>8343a146-01c1-43b0-93c7-5dc60b2b2070</webElementGuid>
+      <value>https://www.redbus.in/</value>
+      <webElementGuid>0aba1f8b-5ec3-4312-bc6c-4e90fd05a3a7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>text</name>
       <type>Main</type>
-      <value>text</value>
-      <webElementGuid>3d1c2b57-8ff4-42e2-8be1-f96f69fb09db</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>5ab6f420-c8af-48bb-af68-460967e0d720</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>sc-bxivhb hrsLPT</value>
-      <webElementGuid>b04cc61e-e4f5-4cba-ab34-d56a3e28f7d3</webElementGuid>
+      <value>Home</value>
+      <webElementGuid>ff50c0c6-0e1a-4b71-8bf5-bbd92b522433</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;dest&quot;)</value>
-      <webElementGuid>089f3a9e-db21-4050-8b40-cf499bbdc5ee</webElementGuid>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;C122_breadCrumb&quot;]/div[@class=&quot;C122_headerContainer&quot;]/ul[1]/li[1]/a[1]</value>
+      <webElementGuid>54910e31-cf63-4033-9a93-cfdfeaed0ad6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:attributes</name>
+      <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//input[@id='dest']</value>
-      <webElementGuid>1be9664b-aa04-44fe-b530-b4c05bbcc6c4</webElementGuid>
+      <value>//div[@id='root']/div/div[2]/div/ul/li/a</value>
+      <webElementGuid>fcc0bf38-a833-4367-bc2e-eaec7dee460f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
+      <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//div[@id='autoSuggestContainer']/div/div[3]/div/div/div/div/input</value>
-      <webElementGuid>6073cfb8-f151-4857-a7cf-b213ef944469</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='RTC Bus Directory'])[1]/preceding::a[1]</value>
+      <webElementGuid>113f120d-f189-4ccc-bd23-e5bfc833e12d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.redbus.in/')])[7]</value>
+      <webElementGuid>5bca15c2-3875-40f2-9bac-d4a4af35a963</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>df932277-be4e-414b-b6b2-9f42a9bfb1aa</webElementGuid>
+      <value>//li/a</value>
+      <webElementGuid>9fa09353-dd47-41e5-80d6-b82fa7f6090b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'dest' and @type = 'text']</value>
-      <webElementGuid>3967ce9f-69fd-438f-99e4-5617f3a6e17c</webElementGuid>
+      <value>//a[@href = 'https://www.redbus.in/' and (text() = 'Home' or . = 'Home')]</value>
+      <webElementGuid>27eb3856-ded1-4bfb-a883-46a143cb8c17</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

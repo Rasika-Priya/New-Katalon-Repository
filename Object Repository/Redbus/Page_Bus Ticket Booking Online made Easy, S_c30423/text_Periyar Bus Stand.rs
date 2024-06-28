@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>text_Periyar Bus Stand</name>
+   <tag></tag>
+   <elementGuidId>bbefcf54-76a2-4cc5-aeed-b89274a0e718</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='autoSuggestContainer']/div/div/div/div/ul/li[3]/div/text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot; From  Madurai  Mattuthavani Madurai  Periyar Bus Stand Madurai  Aruppukottai Bypass Madurai  Kalavasal Madurai  Fathima College Madurai  Arappalayam Madurai  Nagamalai Pudukkottai Madurai  Thiruparankundram Madurai  Ramnad Madurai  Guru Theatre Madurai  Kappalur Bypass Madurai  Sellur Madurai  Simakkal Madurai  Samyanallur Bypass Madurai  K K Nagar Madurai  Tiruvandram Madurai  Ellis Nagar Madurai  Madurairmtoffice Madurai  Madurai Kovilpatti&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>78d00180-0881-41e8-b439-36709b562bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>placeHolderMainText</value>
+      <webElementGuid>832c1f29-34e9-4240-8197-4415241758c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Periyar Bus Stand</value>
+      <webElementGuid>debbd1c3-03bf-4515-aa59-9f56b865eea1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;autoSuggestContainer&quot;)/div[@class=&quot;sc-ckVGcZ ikHMPa&quot;]/div[1]/div[@class=&quot;sc-gqjmRU giWxzf&quot;]/div[@class=&quot;sc-VigVT ishpWr&quot;]/ul[@class=&quot;sc-dnqmqq eFEVtU&quot;]/li[@class=&quot;sc-iwsKbI jTMXri&quot;]/div[@class=&quot;sc-gZMcBi grvhsy&quot;]/text[@class=&quot;placeHolderMainText&quot;]</value>
+      <webElementGuid>10968ff3-cde9-4155-8e78-a4d9e407b6b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='autoSuggestContainer']/div/div/div/div/ul/li[3]/div/text</value>
+      <webElementGuid>89b1b04e-5342-4a5e-ad6d-c09900b7788c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Madurai'])[2]/following::text[1]</value>
+      <webElementGuid>73b4fb06-1951-48f2-b475-495d3d22db54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mattuthavani'])[1]/following::text[2]</value>
+      <webElementGuid>b3fa35c0-bc80-40ec-b582-bd473de98658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Madurai'])[3]/preceding::text[1]</value>
+      <webElementGuid>b87a708b-855b-4f15-959d-6a36cec607fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Aruppukottai Bypass'])[1]/preceding::text[2]</value>
+      <webElementGuid>17a3e382-e8e8-4548-adee-c2de50248973</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Periyar Bus Stand']/parent::*</value>
+      <webElementGuid>a4280221-7bd1-4ac0-8c49-758d07f51a0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/text</value>
+      <webElementGuid>3a032b2f-e937-4e7f-83c4-36f6e8cfffe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//text[(text() = 'Periyar Bus Stand' or . = 'Periyar Bus Stand')]</value>
+      <webElementGuid>3e85f4be-d7a3-4bd1-9824-bcd0ea2892a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

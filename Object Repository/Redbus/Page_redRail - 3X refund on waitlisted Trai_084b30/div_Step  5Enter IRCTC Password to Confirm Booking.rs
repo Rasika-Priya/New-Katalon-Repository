@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Step  5Enter IRCTC Password to Confirm Booking</name>
+   <tag></tag>
+   <elementGuidId>00246377-2983-487b-92c0-630175d6260c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section[4]/div/div/div/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Step : 5 Enter IRCTC Password to Confirm Booking&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7f3e681-8de8-4795-a4bc-c1701d6f12c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> tutorial-step</value>
+      <webElementGuid>9b16aa77-b521-498f-a8cd-ecae85195389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Step : 5 Enter IRCTC Password to Confirm Booking</value>
+      <webElementGuid>380020ec-7c1d-4bf9-9c02-ae3a5de5263e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;tutorial-wrapper&quot;]/div[@class=&quot;tutorial-center&quot;]/div[@class=&quot;tutorial-content&quot;]/div[@class=&quot;steps-list&quot;]/div[@class=&quot;tutorial-step&quot;]</value>
+      <webElementGuid>45fd6367-810b-4767-a580-e00c0c78ce37</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section[4]/div/div/div/div[5]</value>
+      <webElementGuid>3b4c8dc2-4629-481b-9628-6ddc62650c08</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Frequently Asked Questions'])[1]/preceding::div[2]</value>
+      <webElementGuid>06431632-1ef8-4ac7-88dd-3ca2c431e458</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]</value>
+      <webElementGuid>0145dcf0-34ce-4a13-b354-b47152cbb1ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Step : 5 Enter IRCTC Password to Confirm Booking' or . = 'Step : 5 Enter IRCTC Password to Confirm Booking')]</value>
+      <webElementGuid>9f765755-5522-48c4-ba2d-40e7b766836c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

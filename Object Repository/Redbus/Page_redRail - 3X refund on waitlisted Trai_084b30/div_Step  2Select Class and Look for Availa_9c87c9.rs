@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Step  2Select Class and Look for Availa_9c87c9</name>
+   <tag></tag>
+   <elementGuidId>6c0ec853-9c42-4c4a-a7d4-d4ed23395c44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section[4]/div/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Step : 2 Select Class and Look for Available Trains&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0b7fd6a7-4276-4257-9692-b6386a78af1f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> tutorial-step</value>
+      <webElementGuid>3a6a33b9-d26a-43ae-bdf0-c90133a5b9ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Step : 2 Select Class and Look for Available Trains</value>
+      <webElementGuid>2863ec2a-8727-4074-a9a1-11fd83b6fbeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;tutorial-wrapper&quot;]/div[@class=&quot;tutorial-center&quot;]/div[@class=&quot;tutorial-content&quot;]/div[@class=&quot;steps-list&quot;]/div[@class=&quot;tutorial-step&quot;]</value>
+      <webElementGuid>b4fb9b9e-faaa-4e3f-a8fe-e6d35d05dcc1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section[4]/div/div/div/div[2]</value>
+      <webElementGuid>80ee0e3a-220b-46f4-a8a0-b1df0ee74162</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download App'])[1]/following::div[4]</value>
+      <webElementGuid>54796a47-f2b2-4ecf-8ac8-09e3261976ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[4]/div/div/div/div[2]</value>
+      <webElementGuid>8878c7e1-d4a0-4648-86d3-be05421df635</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Step : 2 Select Class and Look for Available Trains' or . = 'Step : 2 Select Class and Look for Available Trains')]</value>
+      <webElementGuid>b14e1b58-b586-4daf-95e2-71c49fcd9a54</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

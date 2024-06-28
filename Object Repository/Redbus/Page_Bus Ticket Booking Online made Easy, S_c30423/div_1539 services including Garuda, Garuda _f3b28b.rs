@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_1539 services including Garuda, Garuda _f3b28b</name>
+   <tag></tag>
+   <elementGuidId>c3ea5f60-b404-4f52-af74-63341c7e85a6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.serviceCnt</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Carousel']/div/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^1539 services including Garuda, Garuda Plus and more$/ >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5fe56c9c-b4ca-4bff-9e84-2615244d60b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>serviceCnt</value>
+      <webElementGuid>577aa4da-a830-4815-839d-afd0bfa3bef1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1539 services including Garuda, Garuda Plus and more</value>
+      <webElementGuid>cf49ef08-9316-4182-a773-ee7986a4d68b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Carousel&quot;)/div[@class=&quot;rtcBack&quot;]/div[@class=&quot;rtcCards&quot;]/div[@class=&quot;serviceCnt&quot;]</value>
+      <webElementGuid>1d055c10-3d51-4bc8-b0b5-b16ba722c8ec</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Carousel']/div/div/div[2]</value>
+      <webElementGuid>58810e7c-193c-4fe9-a8e4-8d9974e629df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ఆంధ్రప్రదేశ్ రాష్ట్ర రోడ్డు రవాణా సంస్థ'])[1]/following::div[1]</value>
+      <webElementGuid>2b5c97e7-2783-4286-b392-2923f251f2c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='APSRTC'])[1]/following::div[4]</value>
+      <webElementGuid>ab60a320-56fc-4a3d-9af5-cb9bc198bc7c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Official booking partner of APSRTC'])[1]/preceding::div[2]</value>
+      <webElementGuid>3910b13d-9370-433f-853e-0961542c87f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/div[2]/div/div/div/div[2]</value>
+      <webElementGuid>3c909095-3e81-4874-b043-9211776e6a43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '1539 services including Garuda, Garuda Plus and more' or . = '1539 services including Garuda, Garuda Plus and more')]</value>
+      <webElementGuid>47e04937-fa61-4347-a2e5-e0ea84e1cd7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
